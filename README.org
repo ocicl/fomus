@@ -6,6 +6,6 @@ Common Lisp Music Notation processor for different output formats
 Temporarily redirected from git:https://github.com/ormf/fomus.git
 |---------+------------------------------------------|
 | source  | git:https://github.com/atgreen/fomus.git |
-| commit  | cefa05f                                  |
+| commit  | 1dcc389                                  |
 | systems | fomus                                    |
 |---------+------------------------------------------|
