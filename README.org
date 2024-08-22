@@ -3,8 +3,9 @@
 Common Lisp Music Notation processor for different output formats
 (MusicXML, Lilypond, cmn) by David Psenicka.
 
-|---------+---------------------------------------|
-| source  | git:https://github.com/ormf/fomus.git |
-| commit  | cefa05f                               |
-| systems | fomus                                 |
-|---------+---------------------------------------|
+Temporarily redirected from git:https://github.com/ormf/fomus.git
+|---------+------------------------------------------|
+| source  | git:https://github.com/atgreen/fomus.git |
+| commit  | cefa05f                                  |
+| systems | fomus                                    |
+|---------+------------------------------------------|
